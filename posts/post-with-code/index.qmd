@@ -1,0 +1,9 @@
+---
+title: "Python"
+author: "dongkyun"
+date: "2025-07-22"
+categories: [code]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2880px-Python_logo_and_wordmark.svg.png"
+---
+
+This is a post with executable code.
